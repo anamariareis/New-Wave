@@ -29,9 +29,7 @@ section {
 }
 
 .inicio-fundo {
-    /* aula 3 */
-    background-image: #2D1B4C;
-    /* Substitua pelo caminho da sua imagem */
+    background-color: #2D1B4C;
     background-size: cover;
     background-position: right;
     border-radius: 80px;
