@@ -78,16 +78,16 @@ h2 {
 }
 
 .galeria-img {
-    width: 100%;        /* A imagem ocupa toda a largura da coluna */
-    height: 250px;      /* Altura fixa de 250px */
-    object-fit: cover;  /* Ajuste para que a imagem preencha o espaço sem distorcer */
-    border-radius: 15px; /* Bordas arredondadas */
+    width: 100%;        
+    height: 250px;      
+    object-fit: cover;  
+    border-radius: 15px; 
 }
 
 @media (max-width: 768px) {
     .galeria-img {
-        width: 80%; /* Em telas menores, as imagens ficam 80% da largura */
-        height: 200px; /* Ajuste a altura para 200px em telas pequenas */
+        width: 80%; 
+        height: 200px; 
     }
 
 .fundo-galeria {
