@@ -201,5 +201,5 @@ h2 {
 
 .img-fluid img-inicio {
     width: 50%;
-    transform: translateX(-30px); /* valor negativo empurra para a esquerda */
+    margin-left: -30px; /* ou outro valor que preferir */
 }
