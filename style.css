@@ -48,6 +48,8 @@ section {
     top: 18rem;
     width: 45rem;
     height: auto;
+    width: 50%;
+    margin-left: 30px; /* ou outro valor que preferir */
 }
 
 
@@ -197,9 +199,4 @@ h2 {
 }
 .alto-contraste .fundo-galeria {
     background: none;
-}
-
-.img-fluid img-inicio {
-    width: 50%;
-    margin-left: 30px; /* ou outro valor que preferir */
 }
