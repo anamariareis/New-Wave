@@ -200,3 +200,8 @@ h2 {
 .alto-contraste .fundo-galeria {
     background: none;
 }
+
+.inicio-fundo {
+    background-color: #2D1B4C;
+    /* outros estilos */
+}
