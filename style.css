@@ -14,7 +14,7 @@ body {
 }
 
 header {
-    background-color: #2D1B4C;
+    background-color: #1C1C2E;
 }
 
 
@@ -30,7 +30,7 @@ section {
 
 .inicio-fundo {
     /* aula 3 */
-    background-image: url('img/4965007.jpg');
+    background-image: #2D1B4C;
     /* Substitua pelo caminho da sua imagem */
     background-size: cover;
     background-position: right;
