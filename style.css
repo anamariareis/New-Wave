@@ -198,3 +198,8 @@ h2 {
 .alto-contraste .fundo-galeria {
     background: none;
 }
+
+.img-inicio {
+    width: 50%;
+    transform: translateX(-30px); /* valor negativo empurra para a esquerda */
+}
