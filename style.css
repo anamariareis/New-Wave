@@ -199,7 +199,7 @@ h2 {
     background: none;
 }
 
-.img-inicio {
+.img-fluid img-inicio {
     width: 50%;
     transform: translateX(-30px); /* valor negativo empurra para a esquerda */
 }
