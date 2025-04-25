@@ -14,7 +14,7 @@ body {
 }
 
 header {
-    background-color: #ffffff;
+    background-color: #2D1B4C;
 }
 
 
@@ -62,7 +62,7 @@ section {
 
 
 .botao-inicio {
-    background-color: var(--laranja-claro);
+    background-color: #A259FF;
     border-radius: 30px;
     border: none;
     width: 14em;
